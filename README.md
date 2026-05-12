@@ -10,7 +10,7 @@ in Indian equity markets using technical indicators and machine learning.
 
 ## 🔴 Live Demo
 
-👉 [Launch Dashboard](https://shanukumarsah-stock-analysis-ds.streamlit.app)
+👉 [Launch Dashboard](https://stock-analysis-ds-a626w4qmdzisjrngpqbziw.streamlit.app/)
 
 ---
 
